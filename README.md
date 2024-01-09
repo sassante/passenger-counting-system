@@ -4,15 +4,15 @@ Welcome to the Transport Booking App! This application provides a convenient pla
 
 ## Features
 
-- **User Registration**: Users can create an account and securely log in to access the app's features.
-- **Search and Book**: Users can search for available transport options based on their desired pickup and drop-off locations, dates, and preferences.
-- **Multiple Transportation Modes**: The app supports various transportation modes such as taxis, private cars, public transport, and more.
-- **Real-Time Availability**: Users can view real-time availability and make instant bookings.
-- **Booking Management**: Users can manage their bookings, including editing, canceling, and rescheduling.
-- **Payment Integration**: The app integrates with popular payment gateways to facilitate secure and hassle-free transactions.
-- **Notifications**: Users receive timely notifications regarding booking confirmations, updates, and reminders.
-- **Ratings and Reviews**: Users can provide feedback and ratings for their transportation experiences, helping others make informed decisions.
-- **Profile Management**: Users can update their personal information, manage preferences, and view their booking history.
+- User Registration: Users can create an account and securely log in to access the app's features.
+- Search and Book: Users can search for available transport options based on their desired pickup and drop-off locations, dates, and preferences.
+- Multiple Transportation Modes: The app supports various transportation modes such as taxis, private cars, public transport, and more.
+- Real-Time Availability: Users can view real-time availability and make instant bookings.
+- Booking Management: Users can manage their bookings, including editing, canceling, and rescheduling.
+- Payment Integration: The app integrates with popular payment gateways to facilitate secure and hassle-free transactions.
+- Notifications: Users receive timely notifications regarding booking confirmations, updates, and reminders.
+- atings and Reviews: Users can provide feedback and ratings for their transportation experiences, helping others make informed decisions.
+- Profile Management: Users can update their personal information, manage preferences, and view their booking history.
 
 ## Technologies Used
 
