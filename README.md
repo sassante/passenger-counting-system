@@ -1,6 +1,6 @@
 Passenger Counting App
 
-Welcome to the Transport Booking App! This application provides a convenient platform for users to book and manage their transportation needs.
+Welcome to the Passenger Counting App! This application provides a convenient platform for passengers to be counted.
 
 ## Features
 
