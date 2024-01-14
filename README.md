@@ -1,45 +1,68 @@
-Passenger Counting App
+# Passenger Counting App
 
-Welcome to the Passenger Counting App! This application provides a convenient platform for passengers to be counted.
+Welcome to the Passenger Counting App! This application is designed to count the number of passengers in a given space using HTML, CSS, and JavaScript.
+
+## Table of Contents
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Features
 
-- User Registration: Users can create an account and securely log in to access the app's features.
-- Search and Book: Users can search for available transport options based on their desired pickup and drop-off locations, dates, and preferences.
-- Multiple Transportation Modes: The app supports various transportation modes such as taxis, private cars, public transport, and more.
-- Real-Time Availability: Users can view real-time availability and make instant bookings.
-- Booking Management: Users can manage their bookings, including editing, canceling, and rescheduling.
-- Payment Integration: The app integrates with popular payment gateways to facilitate secure and hassle-free transactions.
-- Notifications: Users receive timely notifications regarding booking confirmations, updates, and reminders.
-- atings and Reviews: Users can provide feedback and ratings for their transportation experiences, helping others make informed decisions.
-- Profile Management: Users can update their personal information, manage preferences, and view their booking history.
+- Accurate passenger counting algorithm.
+- User-friendly interface.
+- Customizable settings for different scenarios.
+- Lightweight and responsive design.
 
-## Technologies Used
+## Getting Started
 
-- Backend: [Node.js](https://nodejs.org), [Express](https://expressjs.com)
-- Frontend: [React](https://reactjs.org), [Redux](https://redux.js.org)
-- Database: [MongoDB](https://www.mongodb.com)
-- Payment Integration: [Stripe](https://stripe.com)
-- Maps and Geocoding: [Google Maps API](https://cloud.google.com/maps-platform/)
-- Authentication: [JSON Web Tokens (JWT)](https://jwt.io)
-- Deployment: [Heroku](https://www.heroku.com), [AWS](https://aws.amazon.com)
+### Prerequisites
 
-## Installation
+Before you begin, ensure you have the following tools installed:
 
-1. Clone the repository: `git clone https://github.com/your-username/transport-booking-app.git`
-2. Navigate to the project directory: `cd transport-booking-app`
-3. Install dependencies for the backend: `npm install`
-4. Install dependencies for the frontend: `cd client && npm install`
-5. Set up the required environment variables (database connection, payment gateway credentials, etc.) in a `.env` file.
-6. Start the development server: `npm run dev`
+- Web browser (Google Chrome, Mozilla Firefox)
+
+### Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/ssasante/passenger-counting-app.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd passenger-counting-app
+    ```
+
+3. Open the `index.html` file in your web browser.
+
+## Usage
+
+1. Open the application in your web browser.
+2. Configure settings as needed.
+3. Deploy the app in the desired location.
+4. Start counting passengers!
 
 ## Contributing
 
-We welcome contributions from anyone interested in improving the Transport Booking App. If you have any ideas, bug fixes, or new features to propose, please open an issue or submit a pull request. We appreciate your contributions!
+If you'd like to contribute to the project, follow these steps:
+
+1. Fork the repository on GitHub.
+2. Create a new branch with a descriptive name.
+3. Make your changes and commit them.
+4. Push your branch to your fork.
+5. Create a pull request on the original repository.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
+
 
 ## Contact
 
