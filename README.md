@@ -1,4 +1,4 @@
-# Passenger Counting App
+Passenger Counting App
 
 Welcome to the Passenger Counting App! This application is designed to count the number of passengers in a given space using HTML, CSS, and JavaScript.
 
