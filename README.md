@@ -24,7 +24,7 @@ Before you begin, ensure you have the following tools installed:
 
 - Web browser (Google Chrome, Mozilla Firefox)
 
-### Installation
+## Installation
 
 1. Clone the repository:
 
