@@ -16,15 +16,15 @@ Welcome to the Passenger Counting App! This application is designed to count the
 - Customizable settings for different scenarios.
 - Lightweight and responsive design.
 
-## Getting Started
+### Getting Started
 
-### Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following tools installed:
 
 - Web browser (Google Chrome, Mozilla Firefox)
 
-### Installation
+## Installation
 
 1. Clone the repository:
 
