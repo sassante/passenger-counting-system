@@ -3,11 +3,11 @@ Welcome to the Passenger Counting App! This application is designed to count the
 ## Table of Contents
 -  [Features](#features)
 -  [Getting Started](#getting-started)
-  -  [Prerequisites](#prerequisites)
-   - [Installation](#installation)
- - [Usage](#usage)
- - [Contributing](#contributing)
- - [License](#license)
+-  [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Features
 
@@ -24,7 +24,7 @@ Before you begin, ensure you have the following tools installed:
 
 - Web browser (Google Chrome, Mozilla Firefox)
 
-## Installation
+### Installation
 
 1. Clone the repository:
 
