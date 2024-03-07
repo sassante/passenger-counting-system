@@ -3,7 +3,7 @@ Welcome to the Passenger Counting App! This application is designed to count the
 ## Table of Contents
 -  [Features](#features)
 -  [Getting Started](#getting-started)
-        -  [Prerequisites](#prerequisites)
+   - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
